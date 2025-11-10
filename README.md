@@ -1,0 +1,2 @@
+# duckdb_analytics_alicia_gezelius_mlops25
+learning duckdb
