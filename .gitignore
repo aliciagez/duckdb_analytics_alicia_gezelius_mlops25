@@ -210,3 +210,6 @@ __marimo__/
 #duck.db
 *.duckdb
 *.wal
+
+#
+*.db
