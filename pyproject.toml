@@ -1,5 +1,5 @@
 [project]
-name = "l17"
+name = "duckdb-analytics-alicia-gezelius-mlops25"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
@@ -7,5 +7,6 @@ requires-python = ">=3.13"
 dependencies = [
     "duckdb>=1.4.2",
     "ipykernel>=7.1.0",
+    "matplotlib>=3.10.7",
     "pandas>=2.3.3",
 ]
